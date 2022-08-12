@@ -1,0 +1,4 @@
+baseURL = 'https://byuiblockchain.github.io/'
+languageCode = 'en-us'
+title = 'BYU-I Blockchain'
+theme = 'LoveIt'
